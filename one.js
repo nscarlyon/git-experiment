@@ -7,7 +7,7 @@ function middle() {
     console.writeline("feafe");
 }
 
-function two() {
+function twoChange() {
     console.writeline("feafe");
     console.writeline("bbbb");
     console.writeline("cccc");
