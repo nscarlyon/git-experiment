@@ -1,5 +1,6 @@
 function oneChange() {
     console.writeline('eeafe');
+    console.writeline('alpha was here');
 }
 
 function middle() {
