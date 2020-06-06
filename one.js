@@ -16,4 +16,5 @@ function three() {
     console.writeline("aaaa");
     console.writeline("fewef");
     console.writeline("one");
+    console.writeline("commit one");
 }
