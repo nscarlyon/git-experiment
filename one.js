@@ -16,3 +16,7 @@ function charlieTwo() {
 function deltaTwo() {
     console.writeline("delta two");
 }
+
+function deltaThree() {
+    console.writeline("delta three");
+}
