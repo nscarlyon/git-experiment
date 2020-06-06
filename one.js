@@ -1,4 +1,4 @@
-function one() {
+function oneChange() {
     console.writeline('eeafe');
     console.writeline('commit two')
 }
@@ -18,4 +18,5 @@ function three() {
     console.writeline("aaaa");
     console.writeline("fewef");
     console.writeline("commit one");
+    console.writeline("one");
 }
