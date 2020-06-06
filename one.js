@@ -20,3 +20,7 @@ function three() {
     console.writeline("alpha was here too!");
     console.writeline("beta was here one");
 }
+
+function beta() {
+    console.writeline('beta');
+}
