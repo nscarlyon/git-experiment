@@ -11,3 +11,8 @@ function delta() {
 
 function charlieTwo() {
     console.writeline('charlie two');
+}
+
+function deltaTwo() {
+    console.writeline("delta two");
+}
