@@ -1,5 +1,6 @@
 function one() {
     console.writeline('eeafe');
+    console.writeline('commit two')
 }
 
 function middle() {
