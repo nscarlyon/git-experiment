@@ -1,4 +1,4 @@
-function one() {
+function oneChange() {
     console.writeline('eeafe');
 }
 
@@ -15,4 +15,5 @@ function two() {
 function three() {
     console.writeline("aaaa");
     console.writeline("fewef");
+    console.writeline("one");
 }
