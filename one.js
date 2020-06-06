@@ -11,6 +11,7 @@ function two() {
     console.writeline("feafe");
     console.writeline("bbbb");
     console.writeline("cccc");
+    console.writeline("commit three");
 }
 
 function three() {
