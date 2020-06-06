@@ -2,6 +2,7 @@ function one() {
     console.writeline('eeafe');
 }
 
-function two() {
-    console.writeline("feafe");
+function three() {
+    console.writeline("aaaa");
+    console.writeline("eafe");
 }
